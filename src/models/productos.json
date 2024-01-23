@@ -1,0 +1,122 @@
+[
+    {
+      "title": "Taza",
+      "description": "Morada",
+      "price": "3500",
+      "img": "Sin Imagen",
+      "code": "abc123",
+      "stock": "50",
+      "category": "Bazar",
+      "status": true,
+      "thumbnails": [],
+      "id": 1
+    },
+    {
+        "title": "Plato",
+        "description": "Hondo",
+        "price": "1500",
+        "img": "Sin Imagen",
+        "code": "abc124",
+        "stock": "350",
+        "category": "Bazar",
+        "status": true,
+        "thumbnails": [],
+        "id": 2       
+    },
+    {
+        "title": "Vaso",
+        "description": "Chopp",
+        "price": "12500",
+        "img": "Sin Imagen",
+        "code": "abc125",
+        "stock": "650",
+        "category": "Bazar",
+        "status": true,
+        "thumbnails": [],
+        "id": 3       
+    },
+    {
+        "title": "Cuchillo",
+        "description": "De mesa",
+        "price": "500",
+        "img": "Sin Imagen",
+        "code": "abc126",
+        "stock": "3000",
+        "category": "Bazar",
+        "status": true,
+        "thumbnails": [],
+        "id": 4       
+    },
+    {
+        "title": "Cuchara",
+        "description": "Para postre",
+        "price": "500",
+        "img": "Sin Imagen",
+        "code": "abc127",
+        "stock": "3000",
+        "category": "Bazar",
+        "status": true,
+        "thumbnails": [],
+        "id": 5       
+    },
+    {
+        "title": "Tenedor",
+        "description": "De mesa",
+        "price": "500",
+        "img": "Sin Imagen",
+        "code": "abc128",
+        "stock": "3000",
+        "category": "Bazar",
+        "status": true,
+        "thumbnails": [],
+        "id": 6       
+    },
+    {
+        "title": "Cacerola",
+        "description": "Grande",
+        "price": "1000",
+        "img": "Sin Imagen",
+        "code": "abc129",
+        "stock": "900",
+        "category": "Bazar",
+        "status": true,
+        "thumbnails": [],
+        "id": 7       
+    },
+    {
+        "title": "Panquequera",
+        "description": "Para hacer panqueques",
+        "price": "1800",
+        "img": "Sin Imagen",
+        "code": "abc130",
+        "stock": "970",
+        "category": "Bazar",
+        "status": true,
+        "thumbnails": [],
+        "id": 8       
+    },
+    {
+        "title": "Copa",
+        "description": "Para vino",
+        "price": "8000",
+        "img": "Sin Imagen",
+        "code": "abc131",
+        "stock": "780",
+        "category": "Bazar",
+        "status": true,
+        "thumbnails": [],
+        "id": 9       
+    },
+    {
+        "title": "Bowl",
+        "description": "Para postre",
+        "price": "9800",
+        "img": "Sin Imagen",
+        "code": "abc132",
+        "stock": "450",
+        "category": "Bazar",
+        "status": true,
+        "thumbnails": [],
+        "id": 10       
+    }
+]
